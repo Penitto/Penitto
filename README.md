@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Penitto
 - 👀 I’m interested in ML, DL, CV
-- 🌱 I’m currently learning myself
+- 🌱 I’m currently exploring myself
 - 💞️ I’m looking to collaborate on amazing projects
 - 📫 How to reach me penitto02@gmail.com
 
